@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.ForexContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ForexPair {
+  background-color: #f0f0f0;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.ForexPair p {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #333;
+}
